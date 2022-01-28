@@ -1,0 +1,7 @@
+words:
+  word1:
+    original: "TEST"
+    replacer_text: "SUPER_TEST"
+  word2:
+    original: "TEST2"
+    replacer_text: "SUPER_TEST2"

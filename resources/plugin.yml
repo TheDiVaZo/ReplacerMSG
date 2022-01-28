@@ -1,0 +1,15 @@
+name: ReplacerMSG
+main: ReplacerMSG.Main
+version: 1.0
+prefix: ReplacerMSG
+authors: [ TheDiVaZo ]
+commands: #команды
+  replacermsg: #команда
+    description: List of command
+    permission: replacermsg.command
+    usage: /replacermsg
+           /replacermsg reload
+
+permissions: #права
+  replacermsg.command:
+    description: Usages command of plugin
